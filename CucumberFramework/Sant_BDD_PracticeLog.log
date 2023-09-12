@@ -1,0 +1,10 @@
+2023-09-12 08:35:12,660 [INFO ] com.lao.step_definitions.Common_Step_definition [main] Execution Started
+2023-09-12 08:35:12,663 [INFO ] com.lao.step_definitions.Common_Step_definition [main] Instantiating the COmmonUtils
+2023-09-12 08:35:12,664 [INFO ] com.lao.step_definitions.Common_Step_definition [main] Loading the properties file
+2023-09-12 08:35:12,664 [INFO ] com.lao.step_definitions.Common_Step_definition [main] Checking the driver is null or not?
+2023-09-12 08:35:12,664 [INFO ] com.lao.step_definitions.Common_Step_definition [main] Driver is NULL. Instatiating it
+2023-09-12 08:35:12,876 [INFO ] com.lao.step_definitions.Common_Step_definition [main] Launching Chrome
+2023-09-12 08:35:14,463 [INFO ] com.lao.step_definitions.Common_Step_definition [main] Execution Started
+2023-09-12 08:35:14,463 [INFO ] com.lao.step_definitions.Common_Step_definition [main] Instantiating the COmmonUtils
+2023-09-12 08:35:14,463 [INFO ] com.lao.step_definitions.Common_Step_definition [main] Loading the properties file
+2023-09-12 08:35:14,464 [INFO ] com.lao.step_definitions.Common_Step_definition [main] Checking the driver is null or not?
